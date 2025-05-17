@@ -1,2 +1,3 @@
 # bookbot
-Bookbot Project from Boot.dev course. Designed to search through a book and determine how many times each letter appears in the book.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
